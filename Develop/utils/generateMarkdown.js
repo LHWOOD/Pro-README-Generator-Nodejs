@@ -25,10 +25,30 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-  *[Installation](#installation)
-  
-  ${renderLicenseLink(data.license)}
+  -[Installation](#installation)
 
+  -[Usage](#usage)
+
+  -[Contributing](#contributing)
+
+  -[Tests](#tests)
+
+  -[License](#license)
+
+  -[Questions](#questions)
+  
+  ## Installation
+
+  ## Usage
+
+  ## Contributing
+
+  ## Tests
+
+  ## License
+  ${renderLicenseLink(data.license)}
+  
+  ## Questions
 `;
 }
 
