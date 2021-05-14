@@ -4,7 +4,7 @@
 
   ## Description 
 
-  This is a test for the project
+  This is a test project
 
   ## Table of Contents
 
@@ -21,11 +21,11 @@
   * [Questions](#questions)
   
   ## Installation
-  No installation is needed for the test
+  No installation neede for the test
   ## Usage
   No instructions needed for the test
   ## Contributing
-  Please contribute to the test
+  Please contribute
   ## Tests
   Please no testing
   
