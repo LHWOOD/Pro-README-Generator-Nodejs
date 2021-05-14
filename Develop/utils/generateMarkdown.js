@@ -26,7 +26,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "MIT" || license === "GPLv3" || license === "Apache") {
-    return `## License`;
+    return `## License This project is covered under the ${license} license.`;
   } else {
     return "";
   }
@@ -67,7 +67,7 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ${renderLicenseSection(data.license)} 
-  This project is covered under the ${data.license} license.
+  
   
   ## Questions
   Please reach out to me with any questions at ${

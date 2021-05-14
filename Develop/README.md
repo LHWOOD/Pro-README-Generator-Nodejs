@@ -1,10 +1,10 @@
-# The NightSky
+# asdf
   
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
 
-  A web app that tracks the ISS
+  asdf
 
   ## Table of Contents
 
@@ -21,17 +21,17 @@
   * [Questions](#questions)
   
   ## Installation
-  nothing needed
+  sdf
   ## Usage
-  nope
+  sad
   ## Contributing
-  dont do it
+  sadf
   ## Tests
-  it works trust me
+  sdf
   
-  ## License 
-  This project is covered under the GPLv3 license.
+  ## License This project is covered under the MIT license. 
+  
   
   ## Questions
-  Please reach out to me with any questions at hutsonwood@gmail.com. You can also check out my other projects at https://github.com/LHWOOD.
+  Please reach out to me with any questions at asdf. You can also check out my other projects at https://github.com/asd.
   
