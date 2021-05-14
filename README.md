@@ -4,7 +4,7 @@
 
 ## Description
 
-This generator makes a professional README.md file for your next project! All you have to do is answer a few simple questions about your application in your terminal and the Pro-README_Generator will output a professional README file.
+This generator makes a professional README.md file for your next project! All you have to do is answer a few simple questions about your application in your terminal and the Pro-README-Generator will output a professional README file.
 
 ## Table of Contents
 
